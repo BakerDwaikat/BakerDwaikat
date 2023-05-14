@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baker Al-Sdeeq Dwaikat</h1>
 <div align="center">
-  ![GitHub GIF](https://github.com/BakerDwaikat/BakerDwaikat/assets/133254346/c9b016cd-4f88-47bb-bab4-02b9e1c04af0)
+  <img src="https://github.com/BakerDwaikat/BakerDwaikat/assets/133254346/c9b016cd-4f88-47bb-bab4-02b9e1c04af0" width="600" height="300"/>
 </div>
 
 <h3 align="center">A Computer Science Student</h3>
