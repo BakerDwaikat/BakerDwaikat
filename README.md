@@ -8,9 +8,11 @@
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-- 🔭 I’m currently working on **Introduction to Graduation Project**
+- 🔭 I’m currently working on **Learning JS and NodeJS**
 
-- 👀 I’m looking for **Internship during the summer**
+- ✅ I’ve finished my **Graduation Project**
+
+- 👀 I’m looking for **Job Offer**
 
 - 📫 How to reach me **bakerdwaikat02@gmail.com**
 
