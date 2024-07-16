@@ -4,13 +4,13 @@
   <img src="https://github.com/BakerDwaikat/BakerDwaikat/assets/133254346/c9b016cd-4f88-47bb-bab4-02b9e1c04af0" width="600" height="400"/>
 </div>
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-<h3 align="center">A Computer Science Student</h3>
+<h3 align="center">Software Developer</h3>
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 - 🔭 I’m currently working on **Learning JS and NodeJS**
 
-- ✅ I’ve finished my **Graduation Project**
+- 🎓 **Bachelor Degree** in Computer Science from **Birzeit University**
 
 - 👀 I’m looking for **Job Offer**
 
@@ -23,8 +23,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/baker dwaikat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baker dwaikat" height="30" width="40" /></a>
-<a href="https://fb.com/bakeralsdeeq dwaikat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bakeralsdeeq dwaikat" height="30" width="40" /></a>
-<a href="https://instagram.com/bakeralsdeeqdwaikat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bakeralsdeeqdwaikat" height="30" width="40" /></a>
 </p>
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
